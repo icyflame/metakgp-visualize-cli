@@ -1,0 +1,45 @@
+{
+  "name": "metakgp-visualize-cli",
+  "version": "0.0.0",
+  "description": "Instant gratification module for the contributors of metaKGP wiki",
+  "license": "MIT",
+  "repository": "icyflame/metakgp-visualize-cli",
+  "author": {
+    "name": "Siddharth Kannan",
+    "email": "kannan.siddharth12@gmail.com",
+    "url": "icyflame.github.io"
+  },
+  "bin": {
+    "metakgp-visualize": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "metakgp",
+    "wiki",
+    "visualize",
+    "horizontal",
+    "bar",
+    "chart"
+  ],
+  "dependencies": {
+    "bar-horizontal": "^0.2.1",
+    "meow": "^3.3.0",
+    "request": "^2.63.0",
+    "xml2json": "^0.9.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "semistandard": "6.1.1"
+  }
+}
