@@ -16,10 +16,20 @@ $ npm install --global metakgp-visualize-cli
 $ metakgp-visualize --help
 
   Usage
-    metakgp-visualize
+    $ metakgp-visualize
 
-  Example
-    metakgp-visualize
+  Examples
+    $ metakgp-visualize
+
+      Himanshu Mishra        : ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 22%
+      Vivek Rai              : ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 21%
+      Vikrant Varma          : ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 16%
+      Siddharth Kannan       : ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 9%
+      Harsh Gupta            : ▇▇▇▇▇▇▇▇▇▇▇▇ 7%
+      Soumyadeep Mukherjee   : ▇▇▇▇▇▇▇▇▇▇▇▇ 7%
+      Vivek Aithal           : ▇▇▇▇▇▇ 4%
+      AnushkaG2509           : ▇▇▇▇ 3%
+      ...
 ```
 
 
