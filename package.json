@@ -1,6 +1,6 @@
 {
   "name": "metakgp-visualize-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Instant gratification module for the contributors of metaKGP wiki",
   "license": "MIT",
   "repository": "icyflame/metakgp-visualize-cli",
